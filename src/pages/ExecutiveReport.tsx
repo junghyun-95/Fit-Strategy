@@ -3,6 +3,7 @@ import { FilterBar, type ReportFilters } from "../components/report/FilterBar";
 import { mockAiAdapter, type AIStrategyResult } from "../services/aiAnalysis";
 import { ExecutiveConclusion } from "../components/report/ExecutiveConclusion";
 import { MarketSection } from "../components/report/MarketSection";
+import { PositionSection } from "../components/report/PositionSection";
 import ownFitsData from "../data/ownFits.json";
 import plmSpecsData from "../data/plmSpecs.json";
 import marketEntriesData from "../data/marketEntries.json";
@@ -59,6 +60,7 @@ export function ExecutiveReport() {
           <>
             <ExecutiveConclusion result={result} filters={filters} brandCount={new Set(filteredMarket.map((m) => m.brand)).size} />
             <MarketSection market={filteredMarket} plmSpecs={filteredPlmSpecs} marketSummary={result.marketSummary} />
+            <PositionSection ownFit={ownFit} market={filteredMarket} positionDiagnosis={result.positionDiagnosis} />
           </>
         ) : (
           <p className="text-muted text-sm">Select an own brand style to begin.</p>
