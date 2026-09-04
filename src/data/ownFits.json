@@ -1,0 +1,226 @@
+[
+  {
+    "id": "03094518425a",
+    "name": "Active Regular Fit",
+    "gender": "men",
+    "tagline": null,
+    "spec": {
+      "frontLength": 69.0,
+      "backLength": 68.0,
+      "chest": 104.0,
+      "waistPosition": 44.0,
+      "waist": 102.0,
+      "hem": 102.0,
+      "neckWidth": 19.5,
+      "frontNeckDepth": 10.5,
+      "backNeckDepth": 2.5,
+      "shoulder": 46.0,
+      "hwajang": 42.0,
+      "sleeveCircumference": 38.0,
+      "sleeveHem": 36.0,
+      "shoulderAngle": 5.0,
+      "armholeDepth": 27.5
+    },
+    "images": {
+      "crop": "/uploads/aa6a9267d1414d8e9d6d582d02814a8b.png",
+      "full": "/uploads/555324aed5d44f73b5e7e52e2d81f417.png",
+      "product": "/uploads/5ac439ab07194b9fbbaa72c0bce35a1e.png"
+    }
+  },
+  {
+    "id": "184e43acde0b",
+    "name": "Regular Fit",
+    "gender": "men",
+    "tagline": null,
+    "spec": {
+      "frontLength": 69.0,
+      "backLength": 68.0,
+      "chest": 112.0,
+      "waistPosition": 44.0,
+      "waist": 111.0,
+      "hem": 110.0,
+      "neckWidth": 19.5,
+      "frontNeckDepth": 10.5,
+      "backNeckDepth": 2.8,
+      "shoulder": 47.0,
+      "hwajang": 46.0,
+      "sleeveCircumference": 41.5,
+      "sleeveHem": 41.5,
+      "shoulderAngle": 5.0,
+      "armholeDepth": 29.5
+    },
+    "images": {
+      "crop": "/uploads/1f076d7104dd46bdadd21d883b6c9fcc.png",
+      "full": "/uploads/b2edc622b51c4e96accf642462d67ac4.png",
+      "product": "/uploads/26b6bf5e2c294f75985984b8a4a4b6b2.png"
+    }
+  },
+  {
+    "id": "cef475213f42",
+    "name": "Semi-Over Fit",
+    "gender": "men",
+    "tagline": null,
+    "spec": {
+      "frontLength": 70.0,
+      "backLength": 69.0,
+      "chest": 116.0,
+      "waistPosition": 44.0,
+      "waist": 113.0,
+      "hem": 113.0,
+      "neckWidth": 20.0,
+      "frontNeckDepth": 10.5,
+      "backNeckDepth": 2.8,
+      "shoulder": 50.0,
+      "hwajang": 49.0,
+      "sleeveCircumference": 44.5,
+      "sleeveHem": 39.5,
+      "shoulderAngle": 5.5,
+      "armholeDepth": 30.5
+    },
+    "images": {
+      "crop": "/uploads/b0b06cf09d844b0dada5459ce691e034.png",
+      "full": "/uploads/a8de49f0d47f4ea391e7a05c754ecbf6.png",
+      "product": "/uploads/d833b40b914b4c3dac963fd3e4a89f44.png"
+    }
+  },
+  {
+    "id": "d38c92be6187",
+    "name": "Slim Fitted x Semi-crop",
+    "gender": "women",
+    "tagline": null,
+    "spec": {
+      "frontLength": 53.0,
+      "backLength": 51.0,
+      "chest": 80.0,
+      "waistPosition": 38.0,
+      "waist": 71.0,
+      "hem": 80.0,
+      "neckWidth": 17.5,
+      "frontNeckDepth": 9.0,
+      "backNeckDepth": 2.3,
+      "shoulder": 35.0,
+      "hwajang": 32.0,
+      "sleeveCircumference": 27.0,
+      "sleeveHem": 26.0,
+      "shoulderAngle": 3.0,
+      "armholeDepth": 21.0
+    },
+    "images": {
+      "crop": "/uploads/cd71a51d6a1c4b04b6c40ae72b1ac6eb.png",
+      "full": "/uploads/190a35ff45734b808ff0887ccf434ede.png",
+      "product": "/uploads/dbb298b5aacc4765aeb425197b7525eb.png"
+    }
+  },
+  {
+    "id": "3a5cd6c41245",
+    "name": "Slim x Standard",
+    "gender": "women",
+    "tagline": null,
+    "spec": {
+      "frontLength": 57.0,
+      "backLength": 55.0,
+      "chest": 85.0,
+      "waistPosition": 38.0,
+      "waist": 79.0,
+      "hem": 88.0,
+      "neckWidth": 17.5,
+      "frontNeckDepth": 9.0,
+      "backNeckDepth": 2.3,
+      "shoulder": 36.0,
+      "hwajang": 34.0,
+      "sleeveCircumference": 29.0,
+      "sleeveHem": 28.0,
+      "shoulderAngle": 3.0,
+      "armholeDepth": 22.0
+    },
+    "images": {
+      "crop": "/uploads/c399c1f6335445bab86e417212b2f374.png",
+      "full": "/uploads/57960fd930074622ad49718c2bbbf3fe.png",
+      "product": "/uploads/4d293d357f8c4f60bd21c225afe0e571.png"
+    }
+  },
+  {
+    "id": "43341a8e3f5b",
+    "name": "Regular x Semi-crop",
+    "gender": "women",
+    "tagline": null,
+    "spec": {
+      "frontLength": 53.0,
+      "backLength": 51.0,
+      "chest": 90.0,
+      "waistPosition": 38.0,
+      "waist": 88.0,
+      "hem": 90.0,
+      "neckWidth": 17.5,
+      "frontNeckDepth": 9.0,
+      "backNeckDepth": 2.5,
+      "shoulder": 38.0,
+      "hwajang": 35.0,
+      "sleeveCircumference": 31.0,
+      "sleeveHem": 29.0,
+      "shoulderAngle": 3.2,
+      "armholeDepth": 23.0
+    },
+    "images": {
+      "crop": "/uploads/0ed90d841d1045e2ab553c018203a0d4.png",
+      "full": "/uploads/b931bc8c152948f8918f87fd087e1f91.png",
+      "product": "/uploads/caee704c41e0414e8045e844b4080c94.png"
+    }
+  },
+  {
+    "id": "905aea0f497f",
+    "name": "Semi-over x Semi-crop",
+    "gender": "women",
+    "tagline": null,
+    "spec": {
+      "frontLength": 53.0,
+      "backLength": 51.0,
+      "chest": 100.0,
+      "waistPosition": 38.0,
+      "waist": 98.0,
+      "hem": 98.0,
+      "neckWidth": 18.0,
+      "frontNeckDepth": 9.0,
+      "backNeckDepth": 2.5,
+      "shoulder": 47.0,
+      "hwajang": 42.0,
+      "sleeveCircumference": 38.0,
+      "sleeveHem": 34.0,
+      "shoulderAngle": 5.0,
+      "armholeDepth": 25.0
+    },
+    "images": {
+      "crop": "/uploads/013166a1778f4a68aeeb8619fba556d3.png",
+      "full": "/uploads/3a0a8adb924b4fa9aeae74bfa174ab54.png",
+      "product": "/uploads/fb17cfeaa3dc4a4a84f3899cdbcdc46c.png"
+    }
+  },
+  {
+    "id": "14acfc9cf2b6",
+    "name": "Regular x Standard",
+    "gender": "women",
+    "tagline": null,
+    "spec": {
+      "frontLength": 60.0,
+      "backLength": 58.0,
+      "chest": 92.0,
+      "waistPosition": 38.0,
+      "waist": 90.0,
+      "hem": 92.0,
+      "neckWidth": 17.5,
+      "frontNeckDepth": 9.0,
+      "backNeckDepth": 2.5,
+      "shoulder": 38.0,
+      "hwajang": 35.0,
+      "sleeveCircumference": 31.0,
+      "sleeveHem": 29.0,
+      "shoulderAngle": 3.2,
+      "armholeDepth": 23.0
+    },
+    "images": {
+      "crop": "/uploads/e812363a2e9a48299419df29b233550e.png",
+      "full": "/uploads/f4997ddabcb04c8a8fb863c887c01e8c.png",
+      "product": "/uploads/0f55d309096d4b97a4e94c2eaeb4d0ae.png"
+    }
+  }
+]
