@@ -17,3 +17,9 @@ body {
   color: var(--ink);
   font-family: "Inter", ui-sans-serif, system-ui, sans-serif;
 }
+
+@layer components {
+  .report-select {
+    @apply border border-border rounded-md px-2 py-1.5 bg-surface text-ink text-sm;
+  }
+}
