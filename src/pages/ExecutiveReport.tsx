@@ -6,6 +6,7 @@ import { MarketSection } from "../components/report/MarketSection";
 import { PositionSection } from "../components/report/PositionSection";
 import { DiagnosisSection } from "../components/report/DiagnosisSection";
 import { RecommendationSection } from "../components/report/RecommendationSection";
+import { SupportingEvidenceDrawer } from "../components/evidence/SupportingEvidenceDrawer";
 import ownFitsData from "../data/ownFits.json";
 import plmSpecsData from "../data/plmSpecs.json";
 import marketEntriesData from "../data/marketEntries.json";
@@ -25,6 +26,7 @@ export function ExecutiveReport() {
   });
   const [generation, setGeneration] = useState(0);
   const [result, setResult] = useState<AIStrategyResult | null>(null);
+  const [evidenceOpen, setEvidenceOpen] = useState(false);
 
   const filteredMarket = useMemo(
     () => marketEntries.filter((m) => m.gender === filters.gender),
@@ -65,11 +67,20 @@ export function ExecutiveReport() {
             <PositionSection ownFit={ownFit} market={filteredMarket} positionDiagnosis={result.positionDiagnosis} />
             <DiagnosisSection diagnosis={result.diagnosis} />
             <RecommendationSection recommendations={result.recommendations} ownFitName={ownFit.name} />
+            <div className="mb-16 print:hidden">
+              <button
+                className="text-sm font-medium text-accent underline"
+                onClick={() => setEvidenceOpen(true)}
+              >
+                View Supporting Data
+              </button>
+            </div>
           </>
         ) : (
           <p className="text-muted text-sm">Select an own brand style to begin.</p>
         )}
       </div>
+      <SupportingEvidenceDrawer open={evidenceOpen} onClose={() => setEvidenceOpen(false)} entries={filteredMarket} />
     </div>
   );
 }
