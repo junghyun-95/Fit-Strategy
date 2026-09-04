@@ -72,7 +72,7 @@ export function seasonDelta(
   return { from25S, to26S, delta: round1(to26S - from25S) };
 }
 
-function round1(n: number): number {
+export function round1(n: number): number {
   return Math.round(n * 10) / 10;
 }
 

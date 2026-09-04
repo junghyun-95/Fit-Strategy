@@ -21,5 +21,5 @@ C:\Users\AC1218\Desktop\DCS\.venv\Scripts\python.exe scripts/export_snapshot.py
 
 ```bash
 npm run test
-npx tsc --noEmit
+npx tsc -b
 ```

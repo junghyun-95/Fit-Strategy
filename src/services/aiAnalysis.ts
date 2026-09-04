@@ -1,5 +1,5 @@
 import type { OwnFit, PlmSpec, MarketEntry, PomSpec } from "../types";
-import { fieldStats, seasonDelta, positionDeviation, nearestCompetitor, type FieldStats } from "../utils/analytics";
+import { fieldStats, seasonDelta, positionDeviation, nearestCompetitor, round1, type FieldStats } from "../utils/analytics";
 
 export interface AIStrategyInput {
   ownFit: OwnFit;
@@ -75,7 +75,7 @@ export const mockAiAdapter: AIAdapter = {
       : "현재 실루엣 유지, 미세 조정만 적용";
 
     const executiveConclusion = chestStats
-      ? `현재 시장 평균 가슴 스펙은 ${chestStats.mean}cm이며, 자사(${ownFit.name})는 ${ownFit.spec.chest ?? "N/A"}cm로 ${ourPosition}에 위치합니다. 다음 시즌에는 ${ownFit.name}의 기본 실루엣을 유지하고, ${marketShift} 흐름에 맞춰 세부 스펙을 조정하는 것을 권장합니다.`
+      ? `현재 시장 평균 가슴 스펙은 ${chestStats.mean}cm이며, 자사(${ownFit.name})는 ${ownFit.spec.chest ?? "N/A"}cm로 ${ourPosition}에 위치합니다. 다음 시즌에는 ${nextAction}하는 것을 권장합니다.`
       : "시장 데이터가 부족하여 결론을 계산할 수 없습니다.";
 
     const marketSummary = chestStats && lengthStats
@@ -132,7 +132,3 @@ export const mockAiAdapter: AIAdapter = {
     };
   },
 };
-
-function round1(n: number): number {
-  return Math.round(n * 10) / 10;
-}

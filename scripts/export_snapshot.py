@@ -119,6 +119,8 @@ def copy_referenced_images(own_fits: list[dict], market: list[dict]) -> None:
         src = UPLOADS_DIR / filename
         if src.exists():
             shutil.copyfile(src, EVIDENCE_DIR / filename)
+        else:
+            print(f"WARN: missing source image {rel} (expected at {src})")
 
 
 def write_json(name: str, data) -> None:

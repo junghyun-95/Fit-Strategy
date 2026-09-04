@@ -6,7 +6,7 @@ interface Props {
 }
 
 const ORDER: (keyof Props["diagnosis"])[] = ["strength", "gap", "opportunity"];
-const LABELS: Record<string, string> = { strength: "Strength", gap: "Gap", opportunity: "Opportunity" };
+const LABELS: Record<keyof Props["diagnosis"], string> = { strength: "Strength", gap: "Gap", opportunity: "Opportunity" };
 
 export function DiagnosisSection({ diagnosis }: Props) {
   return (

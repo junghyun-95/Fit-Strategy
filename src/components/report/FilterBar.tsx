@@ -25,16 +25,20 @@ export function FilterBar({ filters, onChange, onGenerate, ownFits }: Props) {
       <Field label="Season">
         <select className="report-select" value={filters.season} disabled>
           <option value="26S">26S</option>
+          {DISABLED_SEASONS.map((s) => (
+            <option key={s} disabled>{s} (Coming soon)</option>
+          ))}
         </select>
-        {DISABLED_SEASONS.map((s) => (
-          <option key={s} disabled>{s} (Coming soon)</option>
-        ))}
       </Field>
       <Field label="Gender">
         <select
           className="report-select"
           value={filters.gender}
-          onChange={(e) => onChange({ ...filters, gender: e.target.value as Gender, ownStyleId: "" })}
+          onChange={(e) => {
+            const nextGender = e.target.value as Gender;
+            const nextFit = ownFits.find((f) => f.gender === nextGender);
+            onChange({ ...filters, gender: nextGender, ownStyleId: nextFit?.id ?? "" });
+          }}
         >
           <option value="men">Men</option>
           <option value="women">Women</option>
@@ -43,10 +47,10 @@ export function FilterBar({ filters, onChange, onGenerate, ownFits }: Props) {
       <Field label="Category">
         <select className="report-select" value={filters.category} disabled>
           <option value="티셔츠">티셔츠</option>
+          {DISABLED_CATEGORIES.map((c) => (
+            <option key={c} disabled>{c} (Coming soon)</option>
+          ))}
         </select>
-        {DISABLED_CATEGORIES.map((c) => (
-          <option key={c} disabled>{c} (Coming soon)</option>
-        ))}
       </Field>
       <Field label="Our Brand Style">
         <select

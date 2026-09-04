@@ -1,6 +1,6 @@
-import type { MarketEntry } from "../../types";
+import type { MarketEntry, DataType } from "../../types";
 
-const DATA_TYPE_LABEL: Record<string, string> = {
+const DATA_TYPE_LABEL: Record<DataType, string> = {
   actual_measurement: "Actual Measurement",
   official_spec: "Official Spec",
   ai_estimate: "AI Estimate",

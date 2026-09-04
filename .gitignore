@@ -6,6 +6,7 @@ dist-ssr
 *.log
 *.local
 .env
+__pycache__/
 
 # Editor directories and files
 .vscode/*

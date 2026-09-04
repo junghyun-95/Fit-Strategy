@@ -67,7 +67,7 @@ export function ExecutiveReport() {
             <PositionSection ownFit={ownFit} market={filteredMarket} positionDiagnosis={result.positionDiagnosis} />
             <DiagnosisSection diagnosis={result.diagnosis} />
             <RecommendationSection recommendations={result.recommendations} ownFitName={ownFit.name} />
-            <div className="mb-16 print:hidden">
+            <div className="mb-4 print:hidden">
               <button
                 className="text-sm font-medium text-accent underline"
                 onClick={() => setEvidenceOpen(true)}
@@ -75,6 +75,9 @@ export function ExecutiveReport() {
                 View Supporting Data
               </button>
             </div>
+            <p className="mb-16 text-xs text-muted max-w-3xl leading-relaxed">
+              경쟁사 데이터는 특정 시점의 스냅샷이며 시즌 이력을 포함하지 않습니다. 또한 자사 스펙은 기준 사이즈 기준이나 경쟁사 데이터에는 사이즈 정보가 없어 완전히 동일 조건의 비교는 아닙니다.
+            </p>
           </>
         ) : (
           <p className="text-muted text-sm">Select an own brand style to begin.</p>

@@ -36,5 +36,5 @@ npm run dev
 ```
 - 접속: http://localhost:5175/
 - 테스트: `npm run test`
-- 타입체크: `npx tsc --noEmit`
+- 타입체크: `npx tsc -b`
 - 데이터 재생성: `C:\Users\AC1218\Desktop\DCS\.venv\Scripts\python.exe scripts/export_snapshot.py`

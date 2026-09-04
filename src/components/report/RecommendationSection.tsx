@@ -6,7 +6,7 @@ interface Props {
   ownFitName: string;
 }
 
-const CONFIDENCE_LABEL: Record<string, string> = { high: "High", medium: "Medium", low: "Low" };
+const CONFIDENCE_LABEL: Record<Recommendation["confidence"], string> = { high: "High", medium: "Medium", low: "Low" };
 
 export function RecommendationSection({ recommendations, ownFitName }: Props) {
   return (

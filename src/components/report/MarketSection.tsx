@@ -20,13 +20,18 @@ export function MarketSection({ market, plmSpecs, marketSummary }: Props) {
         <LengthDonutChart entries={market} />
         <div>
           <p className="text-xs uppercase tracking-wide text-muted mb-2">
-            자사 스펙 변화 (25S → 26S)
+            자사 스펙 변화 (25S → 26S, 핏 구성 변화 포함 전체 평균)
           </p>
           {chestDelta && lengthDelta ? (
-            <ul className="text-sm space-y-1">
-              <li>Chest: {chestDelta.from25S}cm → {chestDelta.to26S}cm ({chestDelta.delta > 0 ? "+" : ""}{chestDelta.delta}cm)</li>
-              <li>Body Length: {lengthDelta.from25S}cm → {lengthDelta.to26S}cm ({lengthDelta.delta > 0 ? "+" : ""}{lengthDelta.delta}cm)</li>
-            </ul>
+            <>
+              <ul className="text-sm space-y-1">
+                <li>Chest: {chestDelta.from25S}cm → {chestDelta.to26S}cm ({chestDelta.delta > 0 ? "+" : ""}{chestDelta.delta}cm)</li>
+                <li>Body Length: {lengthDelta.from25S}cm → {lengthDelta.to26S}cm ({lengthDelta.delta > 0 ? "+" : ""}{lengthDelta.delta}cm)</li>
+              </ul>
+              <p className="text-xs text-muted mt-2">
+                핏 구성비 변화가 섞여 있어 시즌별 순수 스펙 변화와는 다를 수 있습니다.
+              </p>
+            </>
           ) : (
             <p className="text-sm text-muted">데이터 부족</p>
           )}
