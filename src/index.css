@@ -23,3 +23,18 @@ body {
     @apply border border-border rounded-md px-2 py-1.5 bg-surface text-ink text-sm;
   }
 }
+
+@media print {
+  body {
+    background: #FFFFFF;
+  }
+  section {
+    break-inside: avoid;
+  }
+  table, .border {
+    break-inside: avoid;
+  }
+  a[href]::after {
+    content: "";
+  }
+}
