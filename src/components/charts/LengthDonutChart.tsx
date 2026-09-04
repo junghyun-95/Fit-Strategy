@@ -22,7 +22,7 @@ export function LengthDonutChart({ entries }: Props) {
               <Cell key={i} fill={COLORS[i % COLORS.length]} />
             ))}
           </Pie>
-          <Tooltip formatter={(v: number, n: string) => [`${v}건`, n]} />
+          <Tooltip formatter={(v, n) => [`${v}건`, n]} />
           <Legend />
         </PieChart>
       </ResponsiveContainer>

@@ -28,7 +28,7 @@ export function PositionScatterChart({ ownFit, market }: Props) {
           <XAxis type="number" dataKey="x" name="Chest" unit="cm" domain={["dataMin - 5", "dataMax + 5"]} />
           <YAxis type="number" dataKey="y" name="Body Length" unit="cm" domain={["dataMin - 5", "dataMax + 5"]} />
           <ZAxis range={[80, 80]} />
-          <Tooltip cursor={{ strokeDasharray: "3 3" }} formatter={(v: number) => `${v}cm`} labelFormatter={() => ""} />
+          <Tooltip cursor={{ strokeDasharray: "3 3" }} formatter={(v) => `${v}cm`} labelFormatter={() => ""} />
           {band && (
             <ReferenceArea
               x1={band.xMin} x2={band.xMax} y1={band.yMin} y2={band.yMax}
