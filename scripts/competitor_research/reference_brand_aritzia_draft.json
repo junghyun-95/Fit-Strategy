@@ -1,0 +1,62 @@
+[
+  {
+    "id": "6a064eda7bde",
+    "brand": "Aritzia",
+    "style": "Wirth T-Shirt",
+    "gender": "women",
+    "fitRaw": "Classic Fit",
+    "spec": {},
+    "dataType": "ai_estimate",
+    "imagePath": null,
+    "sourceUrl": "https://www.aritzia.com/us/en/product/wirth-t-shirt/115463.html",
+    "sourceImageUrl": null
+  },
+  {
+    "id": "ab31f012a6eb",
+    "brand": "Aritzia",
+    "style": "Alpha T-Shirt",
+    "gender": "women",
+    "fitRaw": null,
+    "spec": {},
+    "dataType": "ai_estimate",
+    "imagePath": null,
+    "sourceUrl": "https://www.aritzia.com/us/en/product/t-shirt-alpha/110898.html",
+    "sourceImageUrl": null
+  },
+  {
+    "id": "6016dfabc34a",
+    "brand": "Aritzia",
+    "style": "All-Time T-Shirt",
+    "gender": "women",
+    "fitRaw": "Classic Fit",
+    "spec": {},
+    "dataType": "ai_estimate",
+    "imagePath": null,
+    "sourceUrl": "https://www.aritzia.com/us/en/product/all-time-t-shirt/115849.html",
+    "sourceImageUrl": null
+  },
+  {
+    "id": "c781c41ea462",
+    "brand": "Aritzia",
+    "style": "Tactic T-Shirt",
+    "gender": "women",
+    "fitRaw": "Tight Fit",
+    "spec": {},
+    "dataType": "ai_estimate",
+    "imagePath": null,
+    "sourceUrl": "https://www.aritzia.com/us/en/product/tactic-t-shirt/120783.html",
+    "sourceImageUrl": null
+  },
+  {
+    "id": "e68c8c47223e",
+    "brand": "Aritzia",
+    "style": "InterLock Cotton Function T-Shirt",
+    "gender": "women",
+    "fitRaw": "Classic Fit",
+    "spec": {},
+    "dataType": "ai_estimate",
+    "imagePath": null,
+    "sourceUrl": "https://www.aritzia.com/us/en/product/interlock-cotton-function-t-shirt/124059.html",
+    "sourceImageUrl": null
+  }
+]
