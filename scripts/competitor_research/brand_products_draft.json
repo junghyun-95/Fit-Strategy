@@ -1,6 +1,6 @@
 [
   {
-    "id": "484b1e659d51",
+    "id": "5001df61e2a9",
     "brand": "Alo Yoga",
     "style": "All Day Short Sleeve",
     "gender": "women",
@@ -12,7 +12,7 @@
     "sourceImageUrl": null
   },
   {
-    "id": "4425e678265b",
+    "id": "c69f1b15d35a",
     "brand": "Alo Yoga",
     "style": "Alosoft Finesse Tee",
     "gender": "women",
@@ -24,43 +24,43 @@
     "sourceImageUrl": null
   },
   {
-    "id": "24fba80f1ab3",
+    "id": "bba8d063db02",
     "brand": "Alo Yoga",
-    "style": "Performance Stretch T-Shirt",
+    "style": "Triumph Tee",
+    "gender": "men",
+    "fitRaw": "Relaxed Fit",
+    "spec": {},
+    "dataType": "ai_estimate",
+    "imagePath": null,
+    "sourceUrl": "https://www.aloyoga.com/products/m1257r-triumph-tee-black",
+    "sourceImageUrl": null
+  },
+  {
+    "id": "30fab8ea1e7a",
+    "brand": "Alo Yoga",
+    "style": "The Triumph Crew Neck Tee",
+    "gender": "men",
+    "fitRaw": "Loose-fit raglan sleeve",
+    "spec": {},
+    "dataType": "ai_estimate",
+    "imagePath": null,
+    "sourceUrl": "https://www.aloyoga.com/products/m1133r-the-triumph-crew-neck-tee-true-navy",
+    "sourceImageUrl": null
+  },
+  {
+    "id": "0bcebbc04739",
+    "brand": "Alo Yoga",
+    "style": "The Triumph Muscle Tank",
     "gender": "men",
     "fitRaw": null,
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
-    "sourceUrl": "https://www.aloyoga.com/pages/mens-performance-tops",
+    "sourceUrl": "https://www.aloyoga.com/products/m2033r-the-triumph-muscle-tank-stealth-green",
     "sourceImageUrl": null
   },
   {
-    "id": "66b33747127c",
-    "brand": "Alo Yoga",
-    "style": "Conquer Crewneck",
-    "gender": "men",
-    "fitRaw": null,
-    "spec": {},
-    "dataType": "ai_estimate",
-    "imagePath": null,
-    "sourceUrl": "https://www.aloyoga.com/collections/tees-tanks",
-    "sourceImageUrl": null
-  },
-  {
-    "id": "6e53c76a1e06",
-    "brand": "Alo Yoga",
-    "style": "Triumph Muscle Tank",
-    "gender": "men",
-    "fitRaw": null,
-    "spec": {},
-    "dataType": "ai_estimate",
-    "imagePath": null,
-    "sourceUrl": "https://www.aloyoga.com/collections/tees-tanks",
-    "sourceImageUrl": null
-  },
-  {
-    "id": "065cc8b4a1e2",
+    "id": "26dec7dfd479",
     "brand": "Lululemon",
     "style": "Women's Boxy T-Shirt",
     "gender": "women",
@@ -72,21 +72,21 @@
     "sourceImageUrl": null
   },
   {
-    "id": "932d30465939",
+    "id": "83af5aed0eb5",
     "brand": "Lululemon",
-    "style": "Classic-Fit Cotton-Blend T-Shirt",
+    "style": "Women's Classic Fit T-Shirts (collection)",
     "gender": "women",
     "fitRaw": "Classic Fit",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
-    "sourceUrl": "https://shop.lululemon.com/p/womens-t-shirts/ClassicFit-CottonBlend-T-MD/_/prod11783380",
+    "sourceUrl": "https://shop.lululemon.com/c/women-classic-fit-t-shirts/n153mlzwx7w",
     "sourceImageUrl": null
   },
   {
-    "id": "8076b7b55aa8",
+    "id": "0e76422f6a55",
     "brand": "Lululemon",
-    "style": "Women's Relaxed Fit T-Shirts",
+    "style": "Women's Relaxed Fit T-Shirts (collection)",
     "gender": "women",
     "fitRaw": "Relaxed Fit",
     "spec": {},
@@ -96,59 +96,59 @@
     "sourceImageUrl": null
   },
   {
-    "id": "c0253faf8c1c",
+    "id": "ae953f125ab1",
     "brand": "Lululemon",
-    "style": "Organic Cotton-Blend Classic-Fit T-Shirt",
+    "style": "Heavyweight Classic-Fit Cotton T-Shirt *Chipinski",
     "gender": "men",
     "fitRaw": "Classic Fit",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
-    "sourceUrl": "https://shop.lululemon.com/p/men-ss-tops/Organic-Cotton-Classic-Fit-T-Shirt/_/prod11680617",
+    "sourceUrl": "https://shop.lululemon.com/p/heavyweight-classic-fit-cotton-t-shirt-chipinski/hvtsmqvgg1",
     "sourceImageUrl": null
   },
   {
-    "id": "6281d60fd566",
+    "id": "ca4ac1cf51c7",
     "brand": "Lululemon",
-    "style": "Heavyweight Classic-Fit Cotton T-Shirt *Stack",
+    "style": "Heavyweight Cotton Jersey T-Shirt",
     "gender": "men",
-    "fitRaw": "Classic Fit",
+    "fitRaw": null,
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
-    "sourceUrl": "https://shop.lululemon.com/p/men-ss-tops/Heavyweight-Classic-Fit-Cotton-T-Shirt-Stack-MD/_/prod20009162",
+    "sourceUrl": "https://shop.lululemon.com/p/men-ss-tops/Heavyweight-Cotton-Jersey-T-Shirt/_/prod11680050",
     "sourceImageUrl": null
   },
   {
-    "id": "c6ed5a4e4b8b",
+    "id": "7ad634137294",
     "brand": "Uniqlo",
-    "style": "Relaxed Fit V-Neck Short-Sleeve T-Shirt",
+    "style": "Men's +J Supima Cotton Relaxed-Fit Crew Neck T-Shirt",
     "gender": "men",
     "fitRaw": "Relaxed Fit",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
-    "sourceUrl": "https://www.uniqlo.com/us/en/products/E455364-000/00",
+    "sourceUrl": "https://www.uniqlo.com/us/en/men-plusj-supima-cotton-relaxed-fit-crew-neck-t-shirt-436133.html",
     "sourceImageUrl": null
   },
   {
-    "id": "a525aae2d305",
+    "id": "e738c4f6da87",
     "brand": "Uniqlo",
-    "style": "U Crew Neck T-Shirt",
+    "style": "U Crew Neck T-Shirt (Uniqlo U)",
     "gender": "men",
     "fitRaw": null,
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
-    "sourceUrl": "https://www.uniqlo.com/us/en/contents/feature/masterpiece/product/u-crew-neck-t-shirt/",
+    "sourceUrl": "https://www.uniqlo.com/dk/en/contents/feature/masterpiece/product/u-crew-neck-t-shirt/",
     "sourceImageUrl": null
   },
   {
-    "id": "51064dfb0ff4",
+    "id": "a2b4ecb8d564",
     "brand": "Uniqlo",
-    "style": "Women's Crew Neck T-Shirt",
+    "style": "Women's Crew Neck T-Shirt (Uniqlo U)",
     "gender": "women",
-    "fitRaw": null,
+    "fitRaw": "Regular Fit",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
@@ -156,19 +156,19 @@
     "sourceImageUrl": null
   },
   {
-    "id": "731c00a654a0",
+    "id": "e592160c47f6",
     "brand": "Uniqlo",
-    "style": "U Crew Neck Short-Sleeve T-Shirt",
+    "style": "Women's U Crew Neck Short-Sleeve T-Shirt",
     "gender": "women",
     "fitRaw": null,
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
-    "sourceUrl": "https://www.uniqlo.com/us/en/products/E455758-001/00",
+    "sourceUrl": "https://www.uniqlo.com/us/en/products/E452772-001/00",
     "sourceImageUrl": null
   },
   {
-    "id": "34b4a51d4d1f",
+    "id": "b2e3ed6fcd82",
     "brand": "Vuori",
     "style": "Short Sleeve Heavyweight Cotton Tee - Relaxed Fit",
     "gender": "men",
@@ -176,11 +176,11 @@
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
-    "sourceUrl": "https://vuoriclothing.com/products/short-sleeve-vuori-heavyweight-cotton-tee-relaxed-fit-ivory",
+    "sourceUrl": "https://vuoriclothing.com/products/short-sleeve-vuori-heavyweight-cotton-tee-relaxed-fit-black",
     "sourceImageUrl": null
   },
   {
-    "id": "13ae1a377656",
+    "id": "a977b8a7b0c2",
     "brand": "Vuori",
     "style": "Short Sleeve Strato Tee - Relaxed Fit",
     "gender": "men",
@@ -192,7 +192,19 @@
     "sourceImageUrl": null
   },
   {
-    "id": "0c27e99115c5",
+    "id": "1a9eed67dc37",
+    "brand": "Vuori",
+    "style": "Short Sleeve Maven Oversized Tee",
+    "gender": "women",
+    "fitRaw": "Oversized",
+    "spec": {},
+    "dataType": "ai_estimate",
+    "imagePath": null,
+    "sourceUrl": "https://vuoriclothing.com/products/womens-short-sleeve-maven-oversized-tee-black",
+    "sourceImageUrl": null
+  },
+  {
+    "id": "52faaf549794",
     "brand": "Vuori",
     "style": "Short Sleeve Heavyweight Oversized Cotton Tee",
     "gender": "women",
@@ -204,7 +216,7 @@
     "sourceImageUrl": null
   },
   {
-    "id": "12007ff368a7",
+    "id": "1bf510f64c5e",
     "brand": "Vuori",
     "style": "Energy Tee",
     "gender": "women",
@@ -216,19 +228,19 @@
     "sourceImageUrl": null
   },
   {
-    "id": "7ce0805fe81c",
+    "id": "efcb54f0f11b",
     "brand": "On Running",
     "style": "Focus-T",
     "gender": "men",
-    "fitRaw": "Regular Fit",
+    "fitRaw": null,
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
-    "sourceUrl": "https://www.on.com/en-us/products/focus-t-1mf1024",
+    "sourceUrl": "https://www.on.com/en-us/products/focus-t-m-1me1146/mens",
     "sourceImageUrl": null
   },
   {
-    "id": "6091c6ebd38e",
+    "id": "0428a469a066",
     "brand": "On Running",
     "style": "Core-T",
     "gender": "men",
@@ -240,27 +252,27 @@
     "sourceImageUrl": null
   },
   {
-    "id": "cf13b14569f9",
+    "id": "7c6649fb0013",
     "brand": "On Running",
-    "style": "Club-T",
-    "gender": "men",
-    "fitRaw": null,
-    "spec": {},
-    "dataType": "ai_estimate",
-    "imagePath": null,
-    "sourceUrl": "https://www.on.com/en-us/products/club-t-1me1005/mens",
-    "sourceImageUrl": null
-  },
-  {
-    "id": "19bbcf22e394",
-    "brand": "On Running",
-    "style": "Performance-T",
+    "style": "Focus-T",
     "gender": "women",
     "fitRaw": null,
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
-    "sourceUrl": "https://www.on.com/en-us/products/performance-t-102/womens",
+    "sourceUrl": "https://www.on.com/en-us/products/focus-t-1wf1039/womens",
+    "sourceImageUrl": null
+  },
+  {
+    "id": "4c606c9f87ce",
+    "brand": "On Running",
+    "style": "Core-T",
+    "gender": "women",
+    "fitRaw": null,
+    "spec": {},
+    "dataType": "ai_estimate",
+    "imagePath": null,
+    "sourceUrl": "https://www.on.com/en-us/products/core-t-w-1we1058/womens",
     "sourceImageUrl": null
   }
 ]

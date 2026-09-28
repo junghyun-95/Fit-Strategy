@@ -1,6 +1,6 @@
 [
   {
-    "id": "a1f3c9e2b7d4",
+    "id": "4a5ca786de85",
     "brand": "Aritzia",
     "style": "Essential Oversized Shirt",
     "gender": "women",
@@ -12,7 +12,7 @@
     "sourceImageUrl": null
   },
   {
-    "id": "b2e4d0f3c8a5",
+    "id": "43109d2fc544",
     "brand": "Aritzia",
     "style": "Oversized T-Shirts (collection)",
     "gender": "women",
@@ -20,43 +20,31 @@
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
-    "sourceUrl": "https://www.aritzia.com/intl/en/clothing/tshirts/oversized-tshirts",
+    "sourceUrl": "https://www.aritzia.com/us/en/clothing/tshirts/oversized-tshirts",
     "sourceImageUrl": null
   },
   {
-    "id": "c3f5e1a4d9b6",
+    "id": "f76f8fc337d5",
     "brand": "Aritzia",
-    "style": "Wilfred T-Shirts (collection)",
+    "style": "T-Shirts (collection)",
     "gender": "women",
     "fitRaw": null,
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
-    "sourceUrl": "https://www.aritzia.com/us/en/brands/wilfred/wilfred-tshirts",
+    "sourceUrl": "https://www.aritzia.com/us/en/clothing/tshirts",
     "sourceImageUrl": null
   },
   {
-    "id": "d4a6f2b5e0c7",
+    "id": "9bcc66d668bd",
     "brand": "Aritzia",
-    "style": "TNA T-Shirts (collection)",
+    "style": "Oversized T-Shirts Search (CA)",
     "gender": "women",
-    "fitRaw": null,
+    "fitRaw": "Oversized",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
-    "sourceUrl": "https://www.aritzia.com/us/en/brands/tna/tna-tshirts",
-    "sourceImageUrl": null
-  },
-  {
-    "id": "e5b7a3c6f1d8",
-    "brand": "Aritzia",
-    "style": "The Group by Babaton T-Shirts (collection)",
-    "gender": "women",
-    "fitRaw": null,
-    "spec": {},
-    "dataType": "ai_estimate",
-    "imagePath": null,
-    "sourceUrl": "https://www.aritzia.com/us/en/brands/group/group-tshirts",
+    "sourceUrl": "https://www.aritzia.com/en/search?cgid=tshirts-oversized",
     "sourceImageUrl": null
   }
 ]
