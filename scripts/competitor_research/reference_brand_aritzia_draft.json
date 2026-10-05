@@ -1,50 +1,38 @@
 [
   {
-    "id": "4a5ca786de85",
+    "id": "aaa111bbb222",
     "brand": "Aritzia",
-    "style": "Essential Oversized Shirt",
+    "style": "ARO T-Shirt",
     "gender": "women",
-    "fitRaw": "Oversized",
+    "fitRaw": "Oversized crewneck, dropped shoulders",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
-    "sourceUrl": "https://www.aritzia.com/us/en/product/essential-oversized-shirt/99889048.html",
+    "sourceUrl": "https://www.aritzia.com/en/product/aro-t-shirt/124220.html",
     "sourceImageUrl": null
   },
   {
-    "id": "43109d2fc544",
+    "id": "bbb222ccc333",
     "brand": "Aritzia",
-    "style": "Oversized T-Shirts (collection)",
+    "style": "Brightside T-Shirt",
     "gender": "women",
-    "fitRaw": "Oversized",
+    "fitRaw": "Oversized crewneck, raw-cut hem",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
-    "sourceUrl": "https://www.aritzia.com/us/en/clothing/tshirts/oversized-tshirts",
+    "sourceUrl": "https://www.aritzia.com/en/product/t-shirt-brightside/125403.html",
     "sourceImageUrl": null
   },
   {
-    "id": "f76f8fc337d5",
+    "id": "ccc333ddd444",
     "brand": "Aritzia",
-    "style": "T-Shirts (collection)",
+    "style": "Scavenger T-Shirt",
     "gender": "women",
-    "fitRaw": null,
+    "fitRaw": "Oversized, dolman sleeves for roomier fit",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
-    "sourceUrl": "https://www.aritzia.com/us/en/clothing/tshirts",
-    "sourceImageUrl": null
-  },
-  {
-    "id": "9bcc66d668bd",
-    "brand": "Aritzia",
-    "style": "Oversized T-Shirts Search (CA)",
-    "gender": "women",
-    "fitRaw": "Oversized",
-    "spec": {},
-    "dataType": "ai_estimate",
-    "imagePath": null,
-    "sourceUrl": "https://www.aritzia.com/en/search?cgid=tshirts-oversized",
+    "sourceUrl": "https://www.aritzia.com/en/product/scavenger-t-shirt/111949.html",
     "sourceImageUrl": null
   }
 ]
