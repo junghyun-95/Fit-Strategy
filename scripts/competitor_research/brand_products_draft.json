@@ -1,18 +1,6 @@
 [
   {
-    "id": "a1b2c3d4e5f6",
-    "brand": "Alo Yoga",
-    "style": "Triumph Tee",
-    "gender": "men",
-    "fitRaw": null,
-    "spec": {},
-    "dataType": "ai_estimate",
-    "imagePath": null,
-    "sourceUrl": "https://www.backcountry.com/alo-yoga-energy-crew-shirt-mens",
-    "sourceImageUrl": null
-  },
-  {
-    "id": "b2c3d4e5f6a1",
+    "id": "1a2b3c4d5e01",
     "brand": "Alo Yoga",
     "style": "Energy Crew Shirt",
     "gender": "men",
@@ -24,7 +12,7 @@
     "sourceImageUrl": null
   },
   {
-    "id": "c3d4e5f6a1b2",
+    "id": "1a2b3c4d5e02",
     "brand": "Alo Yoga",
     "style": "Idol Long Sleeve Performance Tee",
     "gender": "men",
@@ -36,19 +24,31 @@
     "sourceImageUrl": null
   },
   {
-    "id": "d4e5f6a1b2c3",
+    "id": "1a2b3c4d5e03",
     "brand": "Lululemon",
     "style": "Classic Jersey Tee",
     "gender": "women",
-    "fitRaw": "Classic fit",
+    "fitRaw": "Fitted-but-comfortable cut",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
-    "sourceUrl": "https://shop.lululemon.com/c/women-classic-fit-t-shirts/n153mlzwx7w",
+    "sourceUrl": "https://shop.lululemon.com/en-ca/c/women-t-shirts/n1wx7w",
     "sourceImageUrl": null
   },
   {
-    "id": "e5f6a1b2c3d4",
+    "id": "1a2b3c4d5e04",
+    "brand": "Lululemon",
+    "style": "Little Ribbed Tee",
+    "gender": "women",
+    "fitRaw": "Body-hugging fit",
+    "spec": {},
+    "dataType": "ai_estimate",
+    "imagePath": null,
+    "sourceUrl": "https://shop.lululemon.com/en-ca/c/women-t-shirts/n1wx7w",
+    "sourceImageUrl": null
+  },
+  {
+    "id": "1a2b3c4d5e05",
     "brand": "Lululemon",
     "style": "Forever Favourite Tee",
     "gender": "women",
@@ -60,43 +60,31 @@
     "sourceImageUrl": null
   },
   {
-    "id": "f6a1b2c3d4e5",
+    "id": "1a2b3c4d5e06",
+    "brand": "Lululemon",
+    "style": "Going Steady Tee",
+    "gender": "women",
+    "fitRaw": "Loose, draping fit",
+    "spec": {},
+    "dataType": "ai_estimate",
+    "imagePath": null,
+    "sourceUrl": "https://shop.lululemon.com/en-ca/c/women-t-shirts/n1wx7w",
+    "sourceImageUrl": null
+  },
+  {
+    "id": "1a2b3c4d5e07",
     "brand": "Lululemon",
     "style": "Fundamental T-Shirt",
     "gender": "men",
-    "fitRaw": "Classic fit",
+    "fitRaw": "Classic Fit (roomy through chest and waist)",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
-    "sourceUrl": "https://shop.lululemon.com/en-ca/c/men-t-shirts/n16wkmzdqvwzrxmr",
+    "sourceUrl": "https://shop.lululemon.com/en-ca/c/men-classic-fit-t-shirts/n153mlz6wkm",
     "sourceImageUrl": null
   },
   {
-    "id": "a7b8c9d0e1f2",
-    "brand": "Lululemon",
-    "style": "Organic Cotton Classic-Fit T-Shirt",
-    "gender": "men",
-    "fitRaw": "Classic-Fit",
-    "spec": {},
-    "dataType": "ai_estimate",
-    "imagePath": null,
-    "sourceUrl": "https://shop.lululemon.com/en-ca/c/men-t-shirts/n16wkmzdqvwzrxmr",
-    "sourceImageUrl": null
-  },
-  {
-    "id": "b8c9d0e1f2a7",
-    "brand": "Lululemon",
-    "style": "Heavyweight Cotton Jersey T-Shirt",
-    "gender": "men",
-    "fitRaw": null,
-    "spec": {},
-    "dataType": "ai_estimate",
-    "imagePath": null,
-    "sourceUrl": "https://shop.lululemon.com/en-ca/c/men-t-shirts/n16wkmzdqvwzrxmr",
-    "sourceImageUrl": null
-  },
-  {
-    "id": "c9d0e1f2a7b8",
+    "id": "1a2b3c4d5e08",
     "brand": "Uniqlo",
     "style": "U Crew Neck T-Shirt",
     "gender": "men",
@@ -108,23 +96,11 @@
     "sourceImageUrl": null
   },
   {
-    "id": "d0e1f2a7b8c9",
-    "brand": "Uniqlo",
-    "style": "U Crew Neck T-Shirt",
-    "gender": "women",
-    "fitRaw": "Regular, balanced fit",
-    "spec": {},
-    "dataType": "ai_estimate",
-    "imagePath": null,
-    "sourceUrl": "https://www.uniqlo.com/sg/en/contents/feature/masterpiece/product/u-crew-neck-t-shirt/",
-    "sourceImageUrl": null
-  },
-  {
-    "id": "e1f2a7b8c9d0",
+    "id": "1a2b3c4d5e09",
     "brand": "Uniqlo",
     "style": "Crew Neck T-Shirt (E424873)",
     "gender": "women",
-    "fitRaw": "Regular fit",
+    "fitRaw": "Regular, balanced fit, straight silhouette",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
@@ -132,21 +108,33 @@
     "sourceImageUrl": null
   },
   {
-    "id": "f2a7b8c9d0e1",
+    "id": "1a2b3c4d5e10",
+    "brand": "Uniqlo",
+    "style": "Supima Cotton Crew Neck T-Shirt",
+    "gender": "women",
+    "fitRaw": "Regular fit",
+    "spec": {},
+    "dataType": "ai_estimate",
+    "imagePath": null,
+    "sourceUrl": "https://www.uniqlo.com/sg/en/special-feature/about-tshirts/women",
+    "sourceImageUrl": null
+  },
+  {
+    "id": "1a2b3c4d5e11",
     "brand": "Vuori",
-    "style": "Short Sleeve Heavyweight Tee",
+    "style": "Short Sleeve Vuori Heavyweight Cotton Tee",
     "gender": "men",
     "fitRaw": "Relaxed Fit",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
-    "sourceUrl": "https://vuoriclothing.com/products/short-sleeve-vuori-heavyweight-tee-relaxed-fit-french-roast",
+    "sourceUrl": "https://vuoriclothing.com/products/short-sleeve-vuori-heavyweight-cotton-tee-relaxed-fit-black",
     "sourceImageUrl": null
   },
   {
-    "id": "a3b4c5d6e7f8",
+    "id": "1a2b3c4d5e12",
     "brand": "Vuori",
-    "style": "Long Sleeve Heavyweight Cotton Tee",
+    "style": "Long Sleeve Vuori Heavyweight Cotton Tee",
     "gender": "men",
     "fitRaw": "Relaxed Fit",
     "spec": {},
@@ -156,23 +144,23 @@
     "sourceImageUrl": null
   },
   {
-    "id": "b4c5d6e7f8a3",
+    "id": "1a2b3c4d5e13",
     "brand": "Vuori",
-    "style": "Short Sleeve Heavyweight Cotton Tee",
+    "style": "Short Sleeve Vuori Heavyweight Tee (Garment Dye)",
     "gender": "men",
-    "fitRaw": "Relaxed Fit",
+    "fitRaw": "Relaxed; loose fit from chest through bottom with no waist definition",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
-    "sourceUrl": "https://vuoriclothing.com/products/short-sleeve-vuori-heavyweight-cotton-tee-relaxed-fit-huckleberry",
+    "sourceUrl": "https://vuoriclothing.com/products/short-sleeve-vuori-heavyweight-tee-relaxed-fit-raindrop-garment-dye",
     "sourceImageUrl": null
   },
   {
-    "id": "c5d6e7f8a3b4",
+    "id": "1a2b3c4d5e14",
     "brand": "Vuori",
     "style": "Energy Tee",
     "gender": "women",
-    "fitRaw": "Oversized, generous fit, no waist definition",
+    "fitRaw": "Oversized, relaxed fit, dropped shoulders",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
@@ -180,7 +168,7 @@
     "sourceImageUrl": null
   },
   {
-    "id": "d6e7f8a3b4c5",
+    "id": "1a2b3c4d5e15",
     "brand": "Vuori",
     "style": "Energy Tee Long",
     "gender": "women",
@@ -192,11 +180,11 @@
     "sourceImageUrl": null
   },
   {
-    "id": "e7f8a3b4c5d6",
+    "id": "1a2b3c4d5e16",
     "brand": "On Running",
     "style": "Core-T",
     "gender": "men",
-    "fitRaw": "Regular fit",
+    "fitRaw": "Standard fit",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
@@ -204,7 +192,7 @@
     "sourceImageUrl": null
   },
   {
-    "id": "f8a3b4c5d6e7",
+    "id": "1a2b3c4d5e17",
     "brand": "On Running",
     "style": "Focus-T",
     "gender": "women",

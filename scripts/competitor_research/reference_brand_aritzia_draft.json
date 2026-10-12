@@ -4,7 +4,7 @@
     "brand": "Aritzia",
     "style": "ARO T-Shirt",
     "gender": "women",
-    "fitRaw": "Oversized crewneck, dropped shoulders",
+    "fitRaw": "Oversized crewneck, dropped shoulders, side slits",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
@@ -33,6 +33,18 @@
     "dataType": "ai_estimate",
     "imagePath": null,
     "sourceUrl": "https://www.aritzia.com/en/product/scavenger-t-shirt/111949.html",
+    "sourceImageUrl": null
+  },
+  {
+    "id": "ddd444eee555",
+    "brand": "Aritzia",
+    "style": "Mixtape T-Shirt",
+    "gender": "women",
+    "fitRaw": "Oversized, dropped shoulders, semi-sheer slub jersey",
+    "spec": {},
+    "dataType": "ai_estimate",
+    "imagePath": null,
+    "sourceUrl": "https://www.aritzia.com/en/product/mixtape-t-shirt/126497009.html",
     "sourceImageUrl": null
   }
 ]
