@@ -1,10 +1,10 @@
 [
   {
-    "id": "aaa111bbb222",
+    "id": "f9e687b620b4",
     "brand": "Aritzia",
     "style": "ARO T-Shirt",
     "gender": "women",
-    "fitRaw": "Oversized crewneck, dropped shoulders, side slits",
+    "fitRaw": "Dropped shoulders, loose relaxed silhouette",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
@@ -12,11 +12,11 @@
     "sourceImageUrl": null
   },
   {
-    "id": "bbb222ccc333",
+    "id": "76aa74771cf3",
     "brand": "Aritzia",
     "style": "Brightside T-Shirt",
     "gender": "women",
-    "fitRaw": "Oversized crewneck, raw-cut hem",
+    "fitRaw": "Roomy crewneck, raw-cut hem",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
@@ -24,15 +24,27 @@
     "sourceImageUrl": null
   },
   {
-    "id": "ccc333ddd444",
+    "id": "08157ddd25ea",
     "brand": "Aritzia",
     "style": "Scavenger T-Shirt",
     "gender": "women",
-    "fitRaw": "Oversized, dolman sleeves for roomier fit",
+    "fitRaw": "Oversized, dolman sleeves for extra room",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
-    "sourceUrl": "https://www.aritzia.com/en/product/scavenger-t-shirt/111949.html",
+    "sourceUrl": "https://www.aritzia.com/en/product/t-shirt-scavenger/118974.html",
+    "sourceImageUrl": null
+  },
+  {
+    "id": "8a22c87e25ca",
+    "brand": "Aritzia",
+    "style": "HomeStretch Smooth Tune T-Shirt",
+    "gender": "women",
+    "fitRaw": null,
+    "spec": {},
+    "dataType": "ai_estimate",
+    "imagePath": null,
+    "sourceUrl": "https://www.aritzia.com/en/product/homestretch%E2%84%A2-smooth-tune-t-shirt/128655015.html",
     "sourceImageUrl": null
   },
   {
