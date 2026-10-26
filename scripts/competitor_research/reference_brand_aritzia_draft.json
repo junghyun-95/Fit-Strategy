@@ -1,10 +1,22 @@
 [
   {
-    "id": "f9e687b620b4",
+    "id": "c585684fb693",
+    "brand": "Aritzia",
+    "style": "Brightside T-Shirt",
+    "gender": "women",
+    "fitRaw": "Oversized fit; ribbed trim, raw-cut hem, heavyweight cotton jersey",
+    "spec": {},
+    "dataType": "ai_estimate",
+    "imagePath": null,
+    "sourceUrl": "https://www.aritzia.com/us/en/product/t-shirt-brightside/125403.html",
+    "sourceImageUrl": null
+  },
+  {
+    "id": "5d810de4987f",
     "brand": "Aritzia",
     "style": "ARO T-Shirt",
     "gender": "women",
-    "fitRaw": "Dropped shoulders, loose relaxed silhouette",
+    "fitRaw": "Oversized fit, dropped shoulders, side slits",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
@@ -12,51 +24,15 @@
     "sourceImageUrl": null
   },
   {
-    "id": "76aa74771cf3",
-    "brand": "Aritzia",
-    "style": "Brightside T-Shirt",
-    "gender": "women",
-    "fitRaw": "Roomy crewneck, raw-cut hem",
-    "spec": {},
-    "dataType": "ai_estimate",
-    "imagePath": null,
-    "sourceUrl": "https://www.aritzia.com/en/product/t-shirt-brightside/125403.html",
-    "sourceImageUrl": null
-  },
-  {
-    "id": "08157ddd25ea",
+    "id": "3970d584b4ff",
     "brand": "Aritzia",
     "style": "Scavenger T-Shirt",
     "gender": "women",
-    "fitRaw": "Oversized, dolman sleeves for extra room",
+    "fitRaw": "Oversized fit, dolman sleeves for extra room",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
-    "sourceUrl": "https://www.aritzia.com/en/product/t-shirt-scavenger/118974.html",
-    "sourceImageUrl": null
-  },
-  {
-    "id": "8a22c87e25ca",
-    "brand": "Aritzia",
-    "style": "HomeStretch Smooth Tune T-Shirt",
-    "gender": "women",
-    "fitRaw": null,
-    "spec": {},
-    "dataType": "ai_estimate",
-    "imagePath": null,
-    "sourceUrl": "https://www.aritzia.com/en/product/homestretch%E2%84%A2-smooth-tune-t-shirt/128655015.html",
-    "sourceImageUrl": null
-  },
-  {
-    "id": "ddd444eee555",
-    "brand": "Aritzia",
-    "style": "Mixtape T-Shirt",
-    "gender": "women",
-    "fitRaw": "Oversized, dropped shoulders, semi-sheer slub jersey",
-    "spec": {},
-    "dataType": "ai_estimate",
-    "imagePath": null,
-    "sourceUrl": "https://www.aritzia.com/en/product/mixtape-t-shirt/126497009.html",
+    "sourceUrl": "https://www.aritzia.com/en/product/scavenger-t-shirt/111949.html",
     "sourceImageUrl": null
   }
 ]
