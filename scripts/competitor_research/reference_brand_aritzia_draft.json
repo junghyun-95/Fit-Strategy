@@ -1,10 +1,10 @@
 [
   {
-    "id": "c585684fb693",
+    "id": "95d56fc5a7b7",
     "brand": "Aritzia",
     "style": "Brightside T-Shirt",
     "gender": "women",
-    "fitRaw": "Oversized fit; ribbed trim, raw-cut hem, heavyweight cotton jersey",
+    "fitRaw": "Oversized cotton jersey crewneck; heavyweight cotton, ribbed trim, raw-cut hem",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
@@ -12,11 +12,11 @@
     "sourceImageUrl": null
   },
   {
-    "id": "5d810de4987f",
+    "id": "593d33157a49",
     "brand": "Aritzia",
-    "style": "ARO T-Shirt",
+    "style": "Aro T-Shirt",
     "gender": "women",
-    "fitRaw": "Oversized fit, dropped shoulders, side slits",
+    "fitRaw": "Dropped shoulders, side slits, brushed \"Smooth Plush\" fabric",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
@@ -24,15 +24,27 @@
     "sourceImageUrl": null
   },
   {
-    "id": "3970d584b4ff",
+    "id": "83a91918782b",
     "brand": "Aritzia",
     "style": "Scavenger T-Shirt",
     "gender": "women",
-    "fitRaw": "Oversized fit, dolman sleeves for extra room",
+    "fitRaw": "Oversized crew-neck tee, softly structured cotton jersey",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
     "sourceUrl": "https://www.aritzia.com/en/product/scavenger-t-shirt/111949.html",
+    "sourceImageUrl": null
+  },
+  {
+    "id": "a96c2d93d666",
+    "brand": "Aritzia",
+    "style": "Foundation Relaxed T-Shirt",
+    "gender": "women",
+    "fitRaw": "Crew-neck tee with dropped shoulders, Peruvian Pima cotton, relaxed fit",
+    "spec": {},
+    "dataType": "ai_estimate",
+    "imagePath": null,
+    "sourceUrl": "https://www.aritzia.com/en/product/foundation-relaxed-t-shirt/72288.html",
     "sourceImageUrl": null
   }
 ]
