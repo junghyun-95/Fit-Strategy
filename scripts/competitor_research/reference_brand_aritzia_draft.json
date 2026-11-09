@@ -1,10 +1,10 @@
 [
   {
-    "id": "95d56fc5a7b7",
+    "id": "df8a18576603",
     "brand": "Aritzia",
     "style": "Brightside T-Shirt",
     "gender": "women",
-    "fitRaw": "Oversized cotton jersey crewneck; heavyweight cotton, ribbed trim, raw-cut hem",
+    "fitRaw": "Oversized crewneck; heavyweight 100% cotton jersey, ribbed trim, raw-cut hem",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
@@ -12,39 +12,39 @@
     "sourceImageUrl": null
   },
   {
-    "id": "593d33157a49",
-    "brand": "Aritzia",
-    "style": "Aro T-Shirt",
-    "gender": "women",
-    "fitRaw": "Dropped shoulders, side slits, brushed \"Smooth Plush\" fabric",
-    "spec": {},
-    "dataType": "ai_estimate",
-    "imagePath": null,
-    "sourceUrl": "https://www.aritzia.com/en/product/aro-t-shirt/124220.html",
-    "sourceImageUrl": null
-  },
-  {
-    "id": "83a91918782b",
+    "id": "61e945fa0c4f",
     "brand": "Aritzia",
     "style": "Scavenger T-Shirt",
     "gender": "women",
-    "fitRaw": "Oversized crew-neck tee, softly structured cotton jersey",
+    "fitRaw": "Oversized; roomy, dolman-sleeved crew tee, softly structured cotton jersey",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
-    "sourceUrl": "https://www.aritzia.com/en/product/scavenger-t-shirt/111949.html",
+    "sourceUrl": "https://www.aritzia.com/en/product/t-shirt-scavenger/118974.html",
     "sourceImageUrl": null
   },
   {
-    "id": "a96c2d93d666",
+    "id": "3028516af79c",
     "brand": "Aritzia",
-    "style": "Foundation Relaxed T-Shirt",
+    "style": "Foundation BF T-Shirt",
     "gender": "women",
-    "fitRaw": "Crew-neck tee with dropped shoulders, Peruvian Pima cotton, relaxed fit",
+    "fitRaw": "Fit: Oversized — intentionally loose, extra volume",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
-    "sourceUrl": "https://www.aritzia.com/en/product/foundation-relaxed-t-shirt/72288.html",
+    "sourceUrl": "https://www.aritzia.com/en/product/foundation-bf-t-shirt/79991.html",
+    "sourceImageUrl": null
+  },
+  {
+    "id": "d5b71a535bf1",
+    "brand": "Aritzia",
+    "style": "Pegasus T-Shirt",
+    "gender": "women",
+    "fitRaw": "Relaxed fit — \"an easy shape that's just shy of loose\", hits at or below the hip",
+    "spec": {},
+    "dataType": "ai_estimate",
+    "imagePath": null,
+    "sourceUrl": "https://www.aritzia.com/us/en/product/pegasus-t-shirt/106679.html",
     "sourceImageUrl": null
   }
 ]
