@@ -1,50 +1,50 @@
 [
   {
-    "id": "df8a18576603",
+    "id": "8e38791a2b9a",
     "brand": "Aritzia",
-    "style": "Brightside T-Shirt",
+    "style": "ARO T-Shirt",
     "gender": "women",
-    "fitRaw": "Oversized crewneck; heavyweight 100% cotton jersey, ribbed trim, raw-cut hem",
+    "fitRaw": "Oversized, dropped shoulders, side slits",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
-    "sourceUrl": "https://www.aritzia.com/us/en/product/t-shirt-brightside/125403.html",
+    "sourceUrl": "https://www.aritzia.com/en/product/aro-t-shirt/124220.html",
     "sourceImageUrl": null
   },
   {
-    "id": "61e945fa0c4f",
-    "brand": "Aritzia",
-    "style": "Scavenger T-Shirt",
-    "gender": "women",
-    "fitRaw": "Oversized; roomy, dolman-sleeved crew tee, softly structured cotton jersey",
-    "spec": {},
-    "dataType": "ai_estimate",
-    "imagePath": null,
-    "sourceUrl": "https://www.aritzia.com/en/product/t-shirt-scavenger/118974.html",
-    "sourceImageUrl": null
-  },
-  {
-    "id": "3028516af79c",
-    "brand": "Aritzia",
-    "style": "Foundation BF T-Shirt",
-    "gender": "women",
-    "fitRaw": "Fit: Oversized — intentionally loose, extra volume",
-    "spec": {},
-    "dataType": "ai_estimate",
-    "imagePath": null,
-    "sourceUrl": "https://www.aritzia.com/en/product/foundation-bf-t-shirt/79991.html",
-    "sourceImageUrl": null
-  },
-  {
-    "id": "d5b71a535bf1",
+    "id": "0bad8871fbbb",
     "brand": "Aritzia",
     "style": "Pegasus T-Shirt",
     "gender": "women",
-    "fitRaw": "Relaxed fit — \"an easy shape that's just shy of loose\", hits at or below the hip",
+    "fitRaw": "Relaxed, easy shape just shy of loose; hip-length hem",
     "spec": {},
     "dataType": "ai_estimate",
     "imagePath": null,
     "sourceUrl": "https://www.aritzia.com/us/en/product/pegasus-t-shirt/106679.html",
+    "sourceImageUrl": null
+  },
+  {
+    "id": "c36a0004e5cd",
+    "brand": "Aritzia",
+    "style": "Foundation BF T-Shirt",
+    "gender": "women",
+    "fitRaw": "Oversized crewneck (Foundation Relaxed Hip), ribbed neckline",
+    "spec": {},
+    "dataType": "ai_estimate",
+    "imagePath": null,
+    "sourceUrl": "https://www.aritzia.com/us/en/product/foundation-bf-t-shirt/78441.html",
+    "sourceImageUrl": null
+  },
+  {
+    "id": "e2d4e6718163",
+    "brand": "Aritzia",
+    "style": "Key Cotton Thessa T-Shirt",
+    "gender": "women",
+    "fitRaw": "Boxy, relaxed fit",
+    "spec": {},
+    "dataType": "ai_estimate",
+    "imagePath": null,
+    "sourceUrl": "https://www.aritzia.com/en/product/key-cotton-thessa-t-shirt/130560028.html",
     "sourceImageUrl": null
   }
 ]
